@@ -1,5 +1,5 @@
 +++
-title = "Liste de sessions de cours"
+title = "Liste d'exercices"
 sort_by = "date"
 template = "session-index.html"
 page_template = "session.html"

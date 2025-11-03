@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://montblanc159.github.io/seance-guichen-escalade"
 
 default_language = "fr"
 
@@ -10,6 +10,10 @@ compile_sass = true
 build_search_index = true
 
 generate_feeds = true
+
+taxonomies = [
+    { name = "families", feed = true},
+]
 
 [markdown]
 # Whether to do syntax highlighting
