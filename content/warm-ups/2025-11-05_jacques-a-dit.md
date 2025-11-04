@@ -7,7 +7,7 @@ authors = ["Guillaume"]
 +++
 
 ## Description
-Les grimpeurs sont sur le mur, l'encadrant donne des ordres aux grimpeurs à la manière d'un "Jacques a dit"
+Pas d'assurage, tout le monde participe. Les grimpeurs sont sur le mur, l'encadrant donne des ordres aux grimpeurs à la manière d'un "Jacques a dit"
 
 ## Consignes
 Les grimpeurs ont les pieds sur la prise la plus basse. En cas de chute, le grimpeur remonte et retente la position demandée par le Jacques a dit.

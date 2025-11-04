@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p><a href="{{ get_url(path=" /") }}">Retour</a></p>
+<p><a href="{{ config.base_url }}">Retour</a></p>
 
 
 <h1 class="title">
@@ -9,7 +9,7 @@
 </h1>
 <ul>
     {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    <li><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
     {% endfor %}
 </ul>
 {% endblock content %}

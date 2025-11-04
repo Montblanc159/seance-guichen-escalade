@@ -5,12 +5,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cours de grimpe</title>
+    <link rel="stylesheet" href="{{ get_url(path='main.css') }}">
 </head>
 
 <body>
+    <header>
+        <div class="search-container">
+            <input id="search" type="search" placeholder="🔎">
+
+            <div class="search-results">
+                <div class="search-results__items"></div>
+            </div>
+        </div>
+    </header>
     <main>
         {% block content %} {% endblock content %}
     </main>
 </body>
+
+<script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') }}"></script>
+<script type="text/javascript" src="{{ get_url(path='search.js') }}"></script>
 
 </html>

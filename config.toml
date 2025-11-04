@@ -1,8 +1,6 @@
 # The URL the site will be built for
 base_url = "https://montblanc159.github.io/seance-guichen-escalade"
 
-default_language = "fr"
-
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -21,6 +19,11 @@ taxonomies = [
 highlight_code = true
 
 render_emoji = true
+
+[search]
+index_format = "elasticlunr_json"
+include_title = true
+include_description = true
 
 [extra]
 # Put all your custom variables here
