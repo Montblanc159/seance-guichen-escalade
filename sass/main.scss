@@ -15,6 +15,7 @@ $black: color.adjust($background, $lightness: -15%);
 $foreground: white;
 $link-color: #007CBC;
 
+@import "font";
 @import "search";
 
 * {
@@ -31,7 +32,7 @@ header {
     display: flex;
     width: 100vw;
     padding: 25px;
-    background-color: $background;
+    background: linear-gradient(45deg, $background 50%, color.adjust($background, $lightness: 10%) 50%);
 
     h1 {
         margin: 0;
@@ -42,13 +43,13 @@ header {
 main {
     padding: 25px;
     height: 100%;
-    background-color: color.adjust($background, $lightness: 50%);
+    background: color.adjust($background, $lightness: 65%);
 }
 
 footer {
     width: 100vw;
     padding: 25px;
-    background-color: $background;
+    background: linear-gradient(-45deg, $background 50%, color.adjust($background, $lightness: 10%) 50%);
     color: $foreground;
 }
 
