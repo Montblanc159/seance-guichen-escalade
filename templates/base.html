@@ -4,14 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cours de grimpe</title>
+    <title>Cours d'escalade</title>
     <link rel="stylesheet" href="{{ get_url(path='main.css') }}">
 </head>
 
 <body>
     <header>
+        <h1>Cours d'escalade</h1>
+
         <div class="search-container">
-            <input id="search" type="search" placeholder="🔎">
+            <input id="search" type="search" placeholder="🔎 Chercher sur le site">
 
             <div class="search-results">
                 <div class="search-results__items"></div>
@@ -21,6 +23,9 @@
     <main>
         {% block content %} {% endblock content %}
     </main>
+    <footer>
+        Made w/ ❤️ by Guillaume Zaugg
+    </footer>
 </body>
 
 <script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') }}"></script>

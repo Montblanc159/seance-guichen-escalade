@@ -1,4 +1,6 @@
 @charset "utf-8";
+@use 'sass:color';
+
 
 @import "normalize";
 
@@ -8,8 +10,58 @@
     box-sizing: border-box;
 }
 
-$background: #191919;
+$background: #7a1f5f;
+$black: color.adjust($background, $lightness: -15%);
 $foreground: white;
 $link-color: #007CBC;
 
 @import "search";
+
+* {
+    color: $black;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    width: 100vw;
+    padding: 25px;
+    background-color: $background;
+
+    h1 {
+        margin: 0;
+        color: $foreground;
+    }
+}
+
+main {
+    padding: 25px;
+    height: 100%;
+    background-color: color.adjust($background, $lightness: 50%);
+}
+
+footer {
+    width: 100vw;
+    padding: 25px;
+    background-color: $background;
+    color: $foreground;
+}
+
+a {
+    color: $link-color;
+}
+
+.button {
+    display: inline-block;
+    background-color: $background;
+    color: $foreground;
+    padding: 0.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 5px;
+}

@@ -1,19 +1,24 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p><a href="{{ config.base_url }}">Retour</a></p>
+<p><a href="{{ config.base_url }}" class="button">Retour</a></p>
 
-<h1 class="title">
+<nav class="tags">
+    <h2>Familles</h2>
+    <section class="tags__items">
+        {% for family in section.pages[0].taxonomies.families %}
+        <a href="{{ config.base_url }}/families/{{ family }}" class="button">{{ family }}</a>
+        {% endfor %}
+    </section>
+</nav>
+
+<h1>
     {{ section.title }}
 </h1>
 
-{% for family in section.pages[0].taxonomies.families %}
-<a href="{{ config.base_url }}/families/{{ family }}">{{ family }}</a>
-{% endfor %}
-
-<ul>
+<ul class="articles">
     {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
+    <li class="articles__item"><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
     {% endfor %}
 </ul>
 {% endblock content %}

@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
+<p>Une liste d'exercices et d'échauffements en lien avec la pratique de l'escalade destinée aux encadrants.</p>
 <br>
-<a href="{{ get_url(path='@/sessions/_index.md') }}">Tous les exercices.</a>
-<br>
-<a href="{{ get_url(path='@/warm-ups/_index.md') }}">Tous les échauffements.</a>
+<a href="{{ get_url(path='@/sessions/_index.md') }}" class="button">Tous les exercices</a><a
+    href="{{ get_url(path='@/warm-ups/_index.md') }}" class="button">Tous les échauffements</a>
 {% endblock content %}

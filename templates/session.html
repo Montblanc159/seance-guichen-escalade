@@ -1,18 +1,25 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p><a href="{{ get_url(path='@/sessions/_index.md') }}">Retour</a></p>
+<p><a href="{{ get_url(path='@/sessions/_index.md') }}" class="button">Retour</a></p>
 
-<h1>
-    {{ page.title }}
-</h1>
-<p><strong>{{ page.date }}</strong></p>
+<article>
+    <h1>
+        {{ page.title }}
+    </h1>
 
-<h2>Familles</h2>
-{% for family in page.taxonomies.families %}
-<a href="{{ config.base_url }}/families/{{ family }}">{{ family }}</a>
-{% endfor %}
+    <p><strong>{{ page.date }}</strong></p>
 
-{{ page.content | safe }}
+    <nav class="tags">
+        <h2>Familles</h2>
+        <section class="tags__items">
+            {% for family in page.taxonomies.families %}
+            <a href="{{ config.base_url }}/families/{{ family }}" class="button">{{ family }}</a>
+            {% endfor %}
+        </section>
+    </nav>
+
+    {{ page.content | safe }}
+</article>
 
 {% endblock content %}
