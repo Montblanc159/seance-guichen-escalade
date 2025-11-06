@@ -1,15 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p><a href="{{ config.base_url }}" class="button">Retour</a></p>
+<article>
+    <p><a href="{{ config.base_url }}" class="button">Retour</a></p>
 
 
-<h1>
-    {{ section.title }}
-</h1>
-<ul class="articles">
-    {% for page in section.pages %}
-    <li class="articles__item"><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
-    {% endfor %}
-</ul>
+    <h1>
+        {{ section.title }}
+    </h1>
+    <ul class="articles">
+        {% for page in section.pages %}
+        <li class="articles__item"><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+</article>
 {% endblock content %}

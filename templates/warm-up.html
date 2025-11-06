@@ -1,15 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p><a href="{{ get_url(path='@/warm-ups/_index.md') }}" class="button">Retour</a></p>
-
 <article>
-    <h1>
-        {{ page.title }}
-    </h1>
+    <article>
+        <p><a href="{{ get_url(path='@/warm-ups/_index.md') }}" class="button">Retour</a></p>
 
-    <p><strong>{{ page.date }}</strong></p>
-    {{ page.content | safe }}
+        <h1>
+            {{ page.title }}
+        </h1>
+
+        <p><strong>{{ page.date }}</strong></p>
+        {{ page.content | safe }}
+    </article>
 </article>
 
 {% endblock content %}

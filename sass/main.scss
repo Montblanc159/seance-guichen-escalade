@@ -30,31 +30,109 @@ body {
 
 header {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 100vw;
     padding: 25px;
     background: linear-gradient(45deg, $background 50%, color.adjust($background, $lightness: 10%) 50%);
 
-    h1 {
-        margin: 0;
-        color: $foreground;
+    a {
+        text-decoration: none;
+
+        h1 {
+            margin: 0;
+            color: $foreground;
+        }
     }
 }
 
 main {
-    padding: 25px;
     height: 100%;
     background: color.adjust($background, $lightness: 65%);
+    overflow: scroll;
+}
+
+article {
+    padding: 25px 0;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 footer {
     width: 100vw;
     padding: 25px;
-    background: linear-gradient(-45deg, $background 50%, color.adjust($background, $lightness: 10%) 50%);
+    background: linear-gradient(45deg, $background 50%, color.adjust($background, $lightness: 10%) 50%);
     color: $foreground;
 }
 
 a {
     color: $link-color;
+
+    &:hover {
+        color: color.adjust($link-color, $lightness: 25%);
+    }
+
+    &:active {
+        color: color.adjust($link-color, $lightness: -25%);
+    }
+}
+
+.subtitle {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 1.5rem;
+    margin: 50px 0;
+    z-index: 2;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 100%;
+
+    &__item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        &:nth-of-type(1) {
+            background-color: color.adjust($background, $lightness: 55%);
+            position: relative;
+
+            &:after {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                left: 0;
+                height: 100%;
+                background-image: url("/session-main.jpg");
+                opacity: 0.3;
+            }
+        }
+
+        &:nth-of-type(2) {
+            background-color: color.adjust($background, $lightness: 50%);
+            position: relative;
+
+            &:after {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                left: 0;
+                height: 100%;
+                background-image: url("/warm-up-main.jpg");
+                opacity: 0.3;
+            }
+        }
+    }
 }
 
 .button {
@@ -65,4 +143,16 @@ a {
     text-decoration: none;
     border-radius: 5px;
     margin-right: 5px;
+    font-size: 2rem;
+    z-index: 2;
+
+    &:hover {
+        color: $foreground;
+        background: color.adjust($background, $lightness: 25%);
+    }
+
+    &:active {
+        color: $foreground;
+        background: color.adjust($background, $lightness: -25%);
+    }
 }

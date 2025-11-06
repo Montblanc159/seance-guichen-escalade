@@ -14,10 +14,9 @@ Les grimpeurs ont les pieds sur la prise la plus basse. En cas de chute, le grim
 
 ## Exemples
 > Jacques a dit: lâchez la main gauche
-> Jacques a dit: frappez une fois dans vos mains derrière le dos
-> Jacques a dit: touchez le sol
-> Jacques a dit: sans les pieds
 
-## Variantes
-- facile : Le grimpeur monte en toutes couleurs
-- difficile : L'assureur se limite dans ses indications. (membre à bouger, type de prises, position de la prise par rapport au grimpeur) OU voie plus dure
+> Jacques a dit: frappez une fois dans vos mains derrière le dos
+
+> Jacques a dit: touchez le sol
+
+> Jacques a dit: sans les pieds
