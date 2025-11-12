@@ -1,6 +1,6 @@
 +++
 title = "Jacques a dit"
-date = 2025-11-05
+date = 2025-11-12
 in_search_index = true
 draft = false
 authors = ["Guillaume"]
