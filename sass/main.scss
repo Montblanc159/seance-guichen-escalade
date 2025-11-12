@@ -110,7 +110,7 @@ a {
                 right: 0;
                 left: 0;
                 height: 100%;
-                background-image: url("/session-main.jpg");
+                background-image: url("./session-main.jpg");
                 opacity: 0.3;
             }
         }
@@ -128,7 +128,7 @@ a {
                 right: 0;
                 left: 0;
                 height: 100%;
-                background-image: url("/warm-up-main.jpg");
+                background-image: url("./warm-up-main.jpg");
                 opacity: 0.3;
             }
         }
@@ -154,5 +154,12 @@ a {
     &:active {
         color: $foreground;
         background: color.adjust($background, $lightness: -25%);
+    }
+}
+
+.tags {
+    &__items {
+        display: flex;
+        flex-wrap: wrap;
     }
 }

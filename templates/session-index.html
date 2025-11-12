@@ -7,8 +7,9 @@
     <nav class="tags">
         <h2>Familles</h2>
         <section class="tags__items">
-            {% for family in section.pages[0].taxonomies.families %}
-            <a href="{{ config.base_url }}/families/{{ family }}" class="button">{{ family }}</a>
+            {% set families = get_taxonomy(kind="families") %}
+            {% for family in families.items %}
+            <a href="{{ family.permalink }}" class="button">{{ family.name }}</a>
             {% endfor %}
         </section>
     </nav>

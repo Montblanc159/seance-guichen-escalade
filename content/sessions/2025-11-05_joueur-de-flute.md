@@ -5,8 +5,11 @@ in_search_index = true
 draft = false
 authors = ["Guillaume"]
 [taxonomies]
-families=["mental", "tactique", "technique"]
+families=["Mental", "Tactique", "Technique"]
 +++
+
+## Matériel
+- Masques pour les yeux (ex: masques COVID)
 
 ## Description
 Le grimpeur a les yeux bandés et obéit aux indications de l'assureur qui doit l'amener tout en haut de la voie

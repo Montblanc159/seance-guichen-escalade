@@ -5,8 +5,14 @@ in_search_index = true
 draft = false
 authors = ["Guillaume"]
 [taxonomies]
-families=["technique"]
+families=["Sécurité"]
 +++
+
+## Pré-requis
+- Le noeud d'encordement est maîtrisé (noeud de huit)
+- La mise en place du système d'assurage est maîtrisé (si erreur, correction avant le départ du grimpeur)
+- L'assurage en cinq temps est maîtrisé
+- Le grimpeur connaît son niveau de grimpe et sait estimer la difficulté d'une voie
 
 ## Description
 Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré en moulinette, l'autre lui permet de clipper les dégaines.
@@ -22,6 +28,7 @@ Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré
     - Une fois la troisième dégaine clippée, l'assureur s'écarte du mur et passe en assurage dynamique. Il observe son grimpeur, anticipe son clippage pour lui donner assez de mou, et une éventuel chute lors d'un mouvement compliqué. La corde entre le grimpeur et l'assureur doit rester molle sans être trop lâche. Ce pour éviter de gêner la progression du grimpeur, sans pour autant que le grimpeur ne tombe trop bas en cas de chute.
 - Le grimpeur ne doit pas clipper le relais avec la corde qui lui permet de grimper en tête
 - L'assureur en moulinette doit assurer le grimpeur, il est le garant de la sécurité vu que l'assurage en tête est incertain.
+- L'assureur en tête et le grimpeur doivent communiquer, si une chute est imminente, il sera plus facile de l'anticiper.
 - Rotation du trinome à chaque ascension
 
 ## Objectifs
