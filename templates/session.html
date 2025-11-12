@@ -2,7 +2,9 @@
 
 {% block content %}
 <article>
-    <p><a href="{{ get_url(path='@/sessions/_index.md') }}" class="button">Retour</a></p>
+    <p><a href="{{ get_url(path='@/sessions/_index.md') }}">
+            < Retour</a>
+    </p>
 
     <h1>
         {{ page.title }}
@@ -14,7 +16,8 @@
         <h2>Familles</h2>
         <section class="tags__items">
             {% for family in page.taxonomies.families %}
-            <a href="{{ config.base_url }}/families/{{ family }}" class="button">{{ family }}</a>
+            {% set term = get_taxonomy_term(kind="families", term=family) %}
+            <a href="{{ term.permalink }}" class="tags__item">{{ term.name }}</a>
             {% endfor %}
         </section>
     </nav>

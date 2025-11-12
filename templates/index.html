@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p class="subtitle"><b>Une liste d'exercices et d'échauffements en lien avec la pratique de l'escalade destinée aux
-        encadrants.</b></p>
+<h2 class="subtitle"><b>Une liste d'exercices et d'échauffements en lien avec la pratique de l'escalade destinée aux
+        encadrants.</b></h2>
 <div class="grid">
     <section class="grid__item">
-        <a href="{{ get_url(path='@/sessions/_index.md') }}" class="button">Tous les exercices</a>
+        <a href="{{ get_url(path='@/sessions/_index.md') }}" class="button">Exercices</a>
     </section>
     <section class="grid__item">
-        <a href="{{ get_url(path='@/warm-ups/_index.md') }}" class="button">Tous les échauffements</a>
+        <a href="{{ get_url(path='@/warm-ups/_index.md') }}" class="button">Échauffements</a>
     </section>
 </div>
 {% endblock content %}

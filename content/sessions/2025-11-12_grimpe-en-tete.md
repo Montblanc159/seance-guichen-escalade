@@ -20,8 +20,10 @@ Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré
 ## Consignes
 - Voie simple, pas besoin de se mettre en difficulté
 - Même si l'assurage en tête est simulé, il faut bien effectué TOUS les gestes de sécurité
+- L'assureur vérifie bien le clippage du grimpeur : on clippe la corde vers soit et pas l'inverse sinon dangereux.
+- Attention aux yoyos, le grimpeur prend bien la corde au niveau de son noeud.
 - Les gestes de sécurité :
-    - Le grimpeur clippe la première dégaine le plus rapidement possible, sur une prise où il se sent à l'aise
+    - Le grimpeur clippe la première dégaine le plus rapidement possible, sur une prise où il se sent à l'aise.
     - L'assureur pare le grimpeur jusqu'à ce qu'il clippe la première dégaine. Corde dans la main, pouces rentrés, mains au dessus du centre de gravité du grimpeur.
     - Lorsque la première dégaine est clippée l'assureur se colle au mur, en dehors de la zone de chute du grimpeur. Il peut ravaler le mou sans oublier les cinq temps. Il doit laisser le moins de mou possible tout en évitant d'empêcher la progression du grimpeur. Assurage en trois temps : pousse sous le descendeur, tire au dessus, replace ses mains.
     - Le grimpeur clippe la deuxième et la troisième dégaine lorsque celles-ci se retrouvent entre ses épaules et ses hanches pour éviter de tirer trop de mou au clippage qui pourrait conduire à un retour au sol.

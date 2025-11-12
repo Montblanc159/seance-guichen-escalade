@@ -2,14 +2,16 @@
 
 {% block content %}
 <article>
-    <p><a href="{{ config.base_url }}" class="button">Retour</a></p>
+    <p><a href="{{ config.base_url }}">
+            < Retour</a>
+    </p>
 
     <nav class="tags">
         <h2>Familles</h2>
         <section class="tags__items">
             {% set families = get_taxonomy(kind="families") %}
             {% for family in families.items %}
-            <a href="{{ family.permalink }}" class="button">{{ family.name }}</a>
+            <a href="{{ family.permalink }}" class="tags__item">{{ family.name }}</a>
             {% endfor %}
         </section>
     </nav>
