@@ -1,6 +1,6 @@
 +++
-title = "La grimpe en tête"
-date = 2025-11-12
+title = "La grimpe en tête (bis)"
+date = 2025-11-19
 in_search_index = true
 draft = false
 authors = ["Guillaume"]
@@ -15,7 +15,8 @@ families=["Sécurité"]
 - Le grimpeur connaît son niveau de grimpe et sait estimer la difficulté d'une voie
 
 ## Description
-Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré en moulinette, l'autre lui permet de clipper les dégaines.
+Comme dit dans la première occurence de cet exercice, le faire sur deux séances est probablement une bonne idée (cf [la première occurence](@/sessions/2025-11-12_grimpe-en-tete.md))
+Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré en moulinette, l'autre lui permet d'être assuré en tête et donc de clipper les dégaines.
 
 ## Consignes
 - Voie simple, pas besoin de se mettre en difficulté
@@ -39,9 +40,3 @@ Pour le grimpeur : Travailler les gestes de clippage et de sécurité sur l'ense
 Pour l'assureur en tête : Travailler les gestes d'assurage en tête (trois premières dégaines + assurage dynamique).
 
 Pour l'assureur en moulinette : apprentissage passif des gestes de la grimpe en tête
-
-## Retour sur l'exercice
-Long à mettre en place, beaucoup de vérifications (2 descendeurs, 2 noeuds).
-Bien faire attention à ne pas se mélanger dans les cordes -> Utiliser des cordes de couleurs différentes.
-Bien penser à prendre le temps d'expliquer le clippage et peut-être même anticiper quelques cours avant avec de la mouli-tête.
-En revanche quand mis en place et que les enfants ont compris l'exercice, ça va beaucoup plus vite. Répéter sur deux séances peut donc être utile. Une séance pour la mise en place, une deuxième séance pour confirmer.
