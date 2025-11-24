@@ -40,3 +40,9 @@ Pour le grimpeur : Travailler les gestes de clippage et de sécurité sur l'ense
 Pour l'assureur en tête : Travailler les gestes d'assurage en tête (trois premières dégaines + assurage dynamique).
 
 Pour l'assureur en moulinette : apprentissage passif des gestes de la grimpe en tête
+
+## Retour sur la pratique
+Problème technique à la salle, nous avons dû improviser des exercices vu que nous n'avions accès qu'à la moitié du mur.
+Une partie des enfants ont fait du bloc et l'autre de la voie.
+Néanmoins, l'exercice, même s'il est très efficace pour apprendre la tête en toute sécurité, n'a pas l'air d'amuser les enfants plus que ça, je n'ai eu aucun candidat volontaire.
+Nous avons tout de même mis en place de la mouli-tête pour certains, d'autres, plus aguerris ont commencé la tête en situation réelle (notamment l'assurage dynamique).

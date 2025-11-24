@@ -40,7 +40,7 @@ Pour l'assureur en tête : Travailler les gestes d'assurage en tête (trois prem
 
 Pour l'assureur en moulinette : apprentissage passif des gestes de la grimpe en tête
 
-## Retour sur l'exercice
+## Retour sur la pratique
 Long à mettre en place, beaucoup de vérifications (2 descendeurs, 2 noeuds).
 Bien faire attention à ne pas se mélanger dans les cordes -> Utiliser des cordes de couleurs différentes.
 Bien penser à prendre le temps d'expliquer le clippage et peut-être même anticiper quelques cours avant avec de la mouli-tête.
