@@ -19,7 +19,9 @@ Les grimpeurs ont interdictions de grimper de face. Ils ont le droit de pivoter 
 
 ## Objectifs
 Exercice pour le grimpeur seulement, l'assureur est passif ici.
+
 Apprendre à économiser de l'énergie.
+
 L'escalade devient plus technique et peut débloquer certains mouvements très utiles comme la lolotte.
 
 ## Variantes
