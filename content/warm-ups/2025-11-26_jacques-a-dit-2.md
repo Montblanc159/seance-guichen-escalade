@@ -1,9 +1,9 @@
 +++
-title = "Jacques a dit"
+title = "Jacques a dit (2)"
 date = 2025-11-12
 in_search_index = true
 draft = false
-authors = ["Guillaume", "Cédric"]
+authors = ["Cédric", "Guillaume"]
 +++
 
 ## Description

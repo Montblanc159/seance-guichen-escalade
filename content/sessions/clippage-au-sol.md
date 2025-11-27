@@ -1,14 +1,17 @@
 +++
 title = "Clippage au sol"
-date = 2025-11-26
 in_search_index = true
 draft = false
-authors = ["Guillaume"]
+date = 2025-11-26
+authors = ["Cédric"]
 [taxonomies]
 families=["Sécurité"]
 +++
 
 ## Pré-requis
+
+## Matériel
+- au moins 4 dégaines
 
 ## Description
 Des dégaines sont placées à distances égales (~2m) à l'horizontal sur un mur/filet. Le pratiquant, encordé, va longer la surface en clippant les dégaines.
@@ -24,4 +27,4 @@ Des dégaines sont placées à distances égales (~2m) à l'horizontal sur un mu
 Automatiser le clippage en situation sécurisée.
 
 ## Retour sur la pratique
-...
+Pas pu le faire à cette date, prochaine séance ?

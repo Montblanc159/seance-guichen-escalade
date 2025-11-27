@@ -3,7 +3,7 @@ title = "Chat perché"
 date = 2025-11-05
 in_search_index = true
 draft = false
-authors = ["Guillaume"]
+authors = ["Cédric", "Vanessa"]
 +++
 
 ## Matériel

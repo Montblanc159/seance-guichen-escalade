@@ -8,6 +8,9 @@ authors = ["Guillaume"]
 families=["Mental", "Tactique", "Technique"]
 +++
 
+## Pré-requis
+Aucun
+
 ## Matériel
 - Masques pour les yeux (ex: masques COVID)
 
