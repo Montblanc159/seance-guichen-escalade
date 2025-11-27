@@ -1,5 +1,5 @@
 +++
-title = "La grimpe en tête (bis)"
+title = "La grimpe en tête (2)"
 date = 2025-11-19
 in_search_index = true
 draft = false
