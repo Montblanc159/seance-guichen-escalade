@@ -12,7 +12,7 @@ families=["Tactique", "Technique"]
 Aucun
 
 ## Description
-Les grimpeurs ont interdictions de grimper de face. Ils ont le droit de pivoter d'un côté ou de l'autre.
+Les grimpeurs ont interdiction de grimper de face. Ils ont le droit de pivoter d'un côté ou de l'autre.
 
 ## Consignes
 - L'assureur est l'arbitre de l'exercice

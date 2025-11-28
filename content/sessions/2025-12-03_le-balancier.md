@@ -12,7 +12,7 @@ families=["Tactique", "Technique"]
 Aucun
 
 ## Description
-Les grimpeurs grimpe toute une voie en dynamique. Ils sont obligés, pour chaque mouvement, d'effectuer un mouvement de balancier (gauche/droite) avant de lancer leur main pour attraper la prise suivante.
+Les grimpeurs grimpent une voie en dynamique. Ils sont obligés, pour chaque mouvement, d'effectuer un mouvement de balancier (gauche/droite) avant de lancer leur main pour attraper la prise suivante.
 
 ## Consignes
 - L'assureur est l'arbitre de l'exercice
