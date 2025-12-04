@@ -6,6 +6,7 @@ draft = false
 authors = ["Guillaume"]
 [taxonomies]
 families=["Mental", "Tactique", "Technique"]
+impairments=["Déficience visuelle"]
 +++
 
 ## Pré-requis
@@ -32,5 +33,5 @@ Pour les deux : créer un lien, se créer son langage de cordé pour communiquer
 - difficile : L'assureur se limite dans ses indications. (membre à bouger, type de prises, position de la prise par rapport au grimpeur) OU voie plus dure
 
 ## Retour sur la pratique
-Exercice amusant, tout le monde s'est pris au jeu. Les enfants communiquent énormément et cela crée une bonne dynamique de groupe. L'exercice a permis aux enfants de se mettre à la place d'un pair non-voyant permettant ainsi une meilleure intégration au groupe.
+Exercice amusant, tout le monde s'est pris au jeu. Les enfants communiquent énormément et cela crée une bonne dynamique de groupe. Les enfants ont pu se mettre à la place d'un pair non-voyant permettant ainsi une meilleure intégration au groupe.
 Attention tout de même aux forts caractères, qui ont tendance à plus se vociférer les indications qu'à échanger pacifiquement.

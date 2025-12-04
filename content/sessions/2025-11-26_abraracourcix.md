@@ -15,7 +15,7 @@ Aucun
 - une sangle par grimpeur
 
 ## Description
-Le grimpeur fait passer une sangle dans son pontet et se ligote les mains à chaque extremité de cette sangle. Il va ensuite grimper une voie de son choix. Les mains étant attaché au baudrier elles sont donc toujours proches du corps.
+Le grimpeur fait passer une sangle dans son pontet et se ligote les mains à chaque extrémité de cette sangle. Il va ensuite grimper une voie de son choix. Les mains étant attachées au baudrier elles sont donc toujours proches du corps.
 
 ## Consignes
 - Voie de niveau moyen

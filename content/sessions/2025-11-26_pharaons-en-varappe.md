@@ -31,4 +31,4 @@ L'escalade devient plus technique et peut débloquer certains mouvements très u
 - Toutes couleurs pour les personnes en difficulté
 
 ## Retour sur la pratique
-Très bon exercice pour tout le monde. C'est une bonne piqure de rappel pour les plus expérimentés. Provoque une réelle prise de conscience chez les débutants. Certains ont commencé sans le savoir à faire des gestes beaucoup plus technique, comme des lolottes, et à réaliser leur voie objectif au premier essai après l'exercice.
+Très bon exercice pour tout le monde. C'est une bonne piqûre de rappel pour les plus expérimentés. Provoque une réelle prise de conscience chez les débutants. Certains ont commencé sans le savoir à faire des gestes beaucoup plus technique, comme des lolottes, et à réaliser leur voie objectif au premier essai après l'exercice.

@@ -15,7 +15,7 @@ families=["Sécurité"]
 - Le grimpeur connaît son niveau de grimpe et sait estimer la difficulté d'une voie
 
 ## Description
-Comme dit dans la première occurence de cet exercice, le faire sur deux séances est probablement une bonne idée (cf [la première occurence](@/sessions/2025-11-12_grimpe-en-tete.md))
+Comme dit dans la première occurrence de cet exercice, le faire sur deux séances est probablement une bonne idée (cf [la première occurrence](@/sessions/2025-11-12_grimpe-en-tete.md))
 Le grimpeur est assuré par deux personnes. Une corde lui permet d'être assuré en moulinette, l'autre lui permet d'être assuré en tête et donc de clipper les dégaines.
 
 ## Consignes

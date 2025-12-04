@@ -16,6 +16,16 @@
         </section>
     </nav>
 
+    <nav class="tags">
+        <h2>Public spécifique</h2>
+        <section class="tags__items">
+            {% set impairments = get_taxonomy(kind="impairments") %}
+            {% for impairment in impairments.items %}
+            <a href="{{ impairment.permalink }}" class="tags__item">{{ impairment.name }}</a>
+            {% endfor %}
+        </section>
+    </nav>
+
     <h1>
         {{ section.title }}
     </h1>

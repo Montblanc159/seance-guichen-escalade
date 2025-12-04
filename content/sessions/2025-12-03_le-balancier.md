@@ -16,7 +16,7 @@ Les grimpeurs grimpent une voie en dynamique. Ils sont obligés, pour chaque mou
 
 ## Consignes
 - L'assureur est l'arbitre de l'exercice
-- Voie de difficulté moyenne, le grimpeur doit donc être capable de flasher la voie, sans qu'elle ne soit une randonnée.
+- Voie toutes couleurs, la voie n'est pas importante, les gestes seules comptent.
 
 ## Objectifs
 Exercice pour le grimpeur seulement, l'assureur est passif ici.
@@ -28,7 +28,8 @@ Apprendre à profiter de l'élan d'un geste pour effectuer le suivant.
 Apprendre à donner du rythme à sa grimpe, pour éviter de trop se fatiguer dans les moments difficiles d'une voie.
 
 ## Variantes
-- Toutes couleurs pour les personnes en difficulté
+- en moulinette pour ceux qui ne sont pas à l'aise avec la tête
+- en tête pour ceux qui savent faire
 
 ## Retour sur la pratique
-...
+Très bon exercice qui leur permet d'apprivoiser un geste technique de l'escalade. Les enfants se sont pris au jeu, il faut leur faire une démonstration pour qu'ils comprennent ce qu'est le geste dynamique en comparaison à un geste statique.
