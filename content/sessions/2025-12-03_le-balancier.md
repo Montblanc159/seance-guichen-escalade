@@ -17,6 +17,7 @@ Les grimpeurs grimpent une voie en dynamique. Ils sont obligés, pour chaque mou
 ## Consignes
 - L'assureur est l'arbitre de l'exercice
 - Voie toutes couleurs, la voie n'est pas importante, les gestes seules comptent.
+- Se pendre sur ses bras peut aider à forcer les mouvements dynamiques
 
 ## Objectifs
 Exercice pour le grimpeur seulement, l'assureur est passif ici.

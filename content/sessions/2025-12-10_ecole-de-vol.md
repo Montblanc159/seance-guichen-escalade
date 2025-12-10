@@ -32,7 +32,7 @@ Puis les grimpeurs font un première chute sans mou.
 
 
 ## Objectifs
-La peur de la chute peut freiner la progression technique d'un grimpeur. Un mouvement que l'on ne fait pas par peur d'une chute, c'est une voie dans laquelle on n'arrivera pas à progresser. C'est pourquoi se familiariser avec la chute et comprendre qu'elle peut être amusante,
+La peur de la chute peut freiner la progression technique d'un grimpeur. Un mouvement que l'on ne fait pas par peur d'une chute, c'est une voie dans laquelle on n'arrivera pas à progresser. C'est tout l'intérêt de se familiariser avec la chute et de comprendre qu'elle peut même être amusante.
 
 ## Variantes
 - en moulinette pour ceux qui ne sont pas entraînés à la tête
