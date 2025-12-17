@@ -1,6 +1,6 @@
 +++
 title = "L'école de vol"
-date = 2025-12-03
+date = 2020-01-01
 in_search_index = true
 draft = false
 authors = ["Guillaume"]
@@ -39,4 +39,4 @@ La peur de la chute peut freiner la progression technique d'un grimpeur. Un mouv
 - en tête pour ceux qui sont familiers de la grimpe en tête
 
 ## Retour sur la pratique
-...
+Exercice modifié, les encadrants
