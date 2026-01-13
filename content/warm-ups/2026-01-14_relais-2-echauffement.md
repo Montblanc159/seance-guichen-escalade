@@ -1,6 +1,6 @@
 +++
 title = "Relais 2 (Échauffement)"
-date = 2026-01-07
+date = 2026-01-14
 in_search_index = true
 draft = false
 authors = ["Guillaume"]
