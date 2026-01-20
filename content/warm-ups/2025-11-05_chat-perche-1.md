@@ -1,5 +1,5 @@
 +++
-title = "Chat perché"
+title = "Chat perché (1)"
 date = 2025-11-05
 in_search_index = true
 draft = false

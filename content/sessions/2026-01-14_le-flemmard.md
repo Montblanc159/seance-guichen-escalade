@@ -15,7 +15,7 @@ Aucun
 Aucun
 
 ## Description
-À chaque bac, le grimpeur doit marquer un arrêt de cinq secondes. Le grimpeur doit atteindre le haut de la voie.
+À chaque dégaine, le grimpeur doit marquer un arrêt de cinq secondes. Le grimpeur doit atteindre le haut de la voie.
 
 ## Consignes
 - les grimpeurs choisissent une voie de leur niveau
@@ -32,3 +32,4 @@ Aucun
 - toutes couleurs pour les plus débutants
 
 ## Retour sur la pratique
+Les grimpeurs ont vite compris l'exercice. Bien montrer qu'il faut compter sinon personne ne compte. Bénéfique pour tout le monde. Il faut mettre les personnes qui ont un bon niveau de grimpe dans des voies à leur niveau maximal pour qu'ils apprécient l'utilité de cet exercice.
