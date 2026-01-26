@@ -1,42 +1,67 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Cours d'escalade</title>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cours d'escalade</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+            rel="stylesheet"
+        />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
-        rel="stylesheet">
+        <link rel="stylesheet" href="{{ get_url(path='main.css') }}" />
 
-    <link rel="stylesheet" href="{{ get_url(path='main.css') }}">
-</head>
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="{{ get_url(path='apple-touch-icon.png') }}"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="{{ get_url(path='favicon-32x32.png') }}"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="{{ get_url(path='favicon-16x16.png') }}"
+        />
+        <link rel="manifest" href="{{ get_url(path='site.webmanifest') }}" />
+    </head>
 
-<body>
-    <header>
-        <a href="{{ config.base_url }}">
-            <h1>Cours d'escalade</h1>
-        </a>
+    <body>
+        <header>
+            <a href="{{ config.base_url }}">
+                <h1>Cours d'escalade</h1>
+            </a>
 
-        <div class="search-container">
-            <input id="search" type="search" placeholder="🔎 Chercher sur le site">
+            <div class="search-container">
+                <input
+                    id="search"
+                    type="search"
+                    placeholder="🔎 Chercher sur le site"
+                />
 
-            <div class="search-results">
-                <div class="search-results__items"></div>
+                <div class="search-results">
+                    <div class="search-results__items"></div>
+                </div>
             </div>
-        </div>
-    </header>
-    <main>
-        {% block content %} {% endblock content %}
-    </main>
-    <footer>
-        Made w/ ❤️ by Guillaume Zaugg
-    </footer>
-</body>
+        </header>
+        <main>{% block content %} {% endblock content %}</main>
+        <footer>Made w/ ❤️ by Guillaume Zaugg</footer>
+    </body>
 
-<script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') }}"></script>
-<script type="text/javascript" src="{{ get_url(path='search.js') }}"></script>
-
+    <script
+        type="text/javascript"
+        src="{{ get_url(path='elasticlunr.min.js') }}"
+    ></script>
+    <script
+        type="text/javascript"
+        src="{{ get_url(path='search.js') }}"
+    ></script>
 </html>
