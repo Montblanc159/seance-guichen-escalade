@@ -2,7 +2,7 @@
 title = "Le lièvre et la tortue"
 in_search_index = true
 draft = false
-date = 2026-01-14
+date = 2026-01-21
 authors = ["Guillaume"]
 [taxonomies]
 families=["Tactique", "Technique"]
@@ -28,4 +28,4 @@ Un grimpeur monte sa voie trois fois. Un première fois en grimpant le plus lent
 - toutes couleurs pour les plus débutants
 
 ## Retour sur la pratique
-...
+Bon exercice, facile à comprendre et à mettre en place. En montant trois fois d'affilée, les grimpeurs sont essorés. C'est donc aussi un bon exercice d'endurance.
