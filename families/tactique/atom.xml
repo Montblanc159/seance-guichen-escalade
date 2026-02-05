@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Tactique</title>
+    <link rel="self" type="application/atom+xml" href="https://montblanc159.github.io/seance-guichen-escalade/families/tactique/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <id>https://montblanc159.github.io/seance-guichen-escalade/families/tactique/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Memory</title>
+        <published>2026-02-04T00:00:00+00:00</published>
+        <updated>2026-02-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/memory/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/memory/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/memory/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Le grimpeur a une minute pour lire la voie jusqu&#x27;à la troisième dégaine. Puis il se retourne et explique à son assureur un à un les mouvements qu&#x27;il va effectuer. L&#x27;assureur vérifie que le grimpeur voit juste. Une fois l&#x27;explication faite et que l&#x27;assureur a validé chaque mouvement, le grimpeur part dans la voie et doit effectuer les mouvements qu&#x27;il a annoncé. Si il doit modifier sa lecture en grimpant, faire un sec dans la voie ou s&#x27;il chute, le grimpeur en discute avec son assureur après être redescendu et essaie de mettre en place une nouvelle lecture qui lui permettra de mieux réussir aux deuxième essai.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;voie de travail, niveau max&lt;&#x2F;li&gt;
+&lt;li&gt;utiliser les mots techniques pour parler des prises : réglette, volume, bac, inversée, pince, plat, pied, poche, poignée&lt;&#x2F;li&gt;
+&lt;li&gt;lorsque l&#x27;assureur et le grimpeur s&#x27;intervertissent, ils changent de voie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apprendre à lire et à mémoriser une voie&lt;&#x2F;li&gt;
+&lt;li&gt;savoir estimer le niveau d&#x27;une voie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;droit de se retourner si trop d&#x27;erreurs, dans ce cas on discute avec son assureur et on se met d&#x27;accord sur les mouvements à faire&lt;&#x2F;li&gt;
+&lt;li&gt;si trop facile on peut rajouter une dégaine de lecture&lt;&#x2F;li&gt;
+&lt;li&gt;pour les grimpeurs confirmés, ne lire que les parties qu&#x27;ils estiment être la croix de la voie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Bon exercice pour les grimpeurs confirmés. Ne convient pas aux grimpeurs débutants, il faut d&#x27;abord qu&#x27;ils sachent se placer et qu&#x27;ils acquierrent le vocabulaire nécessaire (nom des prises).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pile et face</title>
+        <published>2026-01-28T00:00:00+00:00</published>
+        <updated>2026-01-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Vanessa
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Cedric
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/pile-et-face/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/pile-et-face/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/pile-et-face/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Chaque grimpeur doit réaliser une voie en utilisant uniquement son profil gauche. Puis il l&#x27;a refait en untilisant uniquement son profil droit.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;voix de niveau moyen&lt;&#x2F;li&gt;
+&lt;li&gt;toutes couleurs, seul le mouvement compte&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apprendre à ne pas grimper de face&lt;&#x2F;li&gt;
+&lt;li&gt;apprendre à plus utiliser ses jambes&lt;&#x2F;li&gt;
+&lt;li&gt;plus globalement apprendre à bien se placer&lt;&#x2F;li&gt;
+&lt;li&gt;économiser son effort en tirant moins sur les bras&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pour les plus aguerris en tête&lt;&#x2F;li&gt;
+&lt;li&gt;sélectionner une voie spécifique&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Les grimpeurs comprennent vite mais ont du mal à se placer. Bien faire attention au fait que les pieds pointent vers le même côté, c&#x27;est la meilleure indication que l&#x27;exercice est bien réalisé.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Le lièvre et la tortue</title>
+        <published>2026-01-21T00:00:00+00:00</published>
+        <updated>2026-01-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/le-lievre-et-la-tortue/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/le-lievre-et-la-tortue/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/le-lievre-et-la-tortue/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Un grimpeur monte sa voie trois fois. Un première fois en grimpant le plus lentement possible, une deuxième fois en grimpant le plus rapidement possible et une troisième fois en alternant rapide et lent selon ce qu&#x27;il estime être le rythme adapté à chaque partie de la voie.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;les grimpeurs choisissent une voie de leur niveau max à vue.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;apprendre à rythmer sa grimpe. S&#x27;économiser en grimpant lentement dans les moments plus calme et accélérer dans les moments qui sont fatiguants&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;en tête pour les plus aguerris&lt;&#x2F;li&gt;
+&lt;li&gt;toutes couleurs pour les plus débutants&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Bon exercice, facile à comprendre et à mettre en place. En montant trois fois d&#x27;affilée, les grimpeurs sont essorés. C&#x27;est donc aussi un bon exercice d&#x27;endurance.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Le balancier</title>
+        <published>2025-12-03T00:00:00+00:00</published>
+        <updated>2025-12-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Vanessa
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/le-balancier/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/le-balancier/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/le-balancier/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Les grimpeurs grimpent une voie en dynamique. Ils sont obligés, pour chaque mouvement, d&#x27;effectuer un mouvement de balancier (gauche&#x2F;droite) avant de lancer leur main pour attraper la prise suivante.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;L&#x27;assureur est l&#x27;arbitre de l&#x27;exercice&lt;&#x2F;li&gt;
+&lt;li&gt;Voie toutes couleurs, la voie n&#x27;est pas importante, les gestes seules comptent.&lt;&#x2F;li&gt;
+&lt;li&gt;Se pendre sur ses bras peut aider à forcer les mouvements dynamiques&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Exercice pour le grimpeur seulement, l&#x27;assureur est passif ici.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre le mouvement dynamique.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre à profiter de l&#x27;élan d&#x27;un geste pour effectuer le suivant.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre à donner du rythme à sa grimpe, pour éviter de trop se fatiguer dans les moments difficiles d&#x27;une voie.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;en moulinette pour ceux qui ne sont pas à l&#x27;aise avec la tête&lt;&#x2F;li&gt;
+&lt;li&gt;en tête pour ceux qui savent faire&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Très bon exercice qui leur permet d&#x27;apprivoiser un geste technique de l&#x27;escalade. Les enfants se sont pris au jeu, il faut leur faire une démonstration pour qu&#x27;ils comprennent ce qu&#x27;est le geste dynamique en comparaison à un geste statique.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Abraracourcix (1)</title>
+        <published>2025-11-26T00:00:00+00:00</published>
+        <updated>2025-11-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Vanessa
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-1/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-1/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-1/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;une sangle par grimpeur&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Le grimpeur fait passer une sangle dans son pontet et se ligote les mains à chaque extrémité de cette sangle. Il va ensuite grimper une voie de son choix. Les mains étant attachées au baudrier elles sont donc toujours proches du corps.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Voie de niveau moyen&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Exercice pour le grimpeur seulement, l&#x27;assureur est passif ici.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre à lever les pieds pour trouver des mains.&lt;&#x2F;p&gt;
+&lt;p&gt;Travailler les adhérences.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toutes couleurs pour les personnes en difficulté&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Très bon exercice, surtout pour ceux qui ont tendance à être bloqué dans les voies en ne cherchant que des mains.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pharaons en varappe</title>
+        <published>2025-11-26T00:00:00+00:00</published>
+        <updated>2025-11-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/pharaons-en-varappe/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/pharaons-en-varappe/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/pharaons-en-varappe/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Les grimpeurs ont interdiction de grimper de face. Ils ont le droit de pivoter d&#x27;un côté ou de l&#x27;autre.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;L&#x27;assureur est l&#x27;arbitre de l&#x27;exercice&lt;&#x2F;li&gt;
+&lt;li&gt;Voie de difficulté moyenne, le grimpeur doit donc être capable de flasher la voie, sans qu&#x27;elle ne soit une randonnée.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Exercice pour le grimpeur seulement, l&#x27;assureur est passif ici.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre à économiser de l&#x27;énergie.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprend à poser les pointes, car le pivot est impossible si les pointes ne sont pas posées.&lt;&#x2F;p&gt;
+&lt;p&gt;L&#x27;escalade devient plus technique et peut débloquer certains mouvements très utiles comme la lolotte.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toutes couleurs pour les personnes en difficulté&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Très bon exercice pour tout le monde. C&#x27;est une bonne piqûre de rappel pour les plus expérimentés. Provoque une réelle prise de conscience chez les débutants. Certains ont commencé sans le savoir à faire des gestes beaucoup plus technique, comme des lolottes, et à réaliser leur voie objectif au premier essai après l&#x27;exercice.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Le joueur de flûte</title>
+        <published>2025-11-05T00:00:00+00:00</published>
+        <updated>2025-11-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/joueur-de-flute/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/joueur-de-flute/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/joueur-de-flute/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Masques pour les yeux (ex: masques COVID)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Le grimpeur a les yeux bandés et obéit aux indications de l&#x27;assureur qui doit l&#x27;amener tout en haut de la voie&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;p&gt;Le grimpeur choisit une voie 1 voir 2 niveaux en dessous de son niveau maximum. Il doit être capable de la grimper à vue sans tomber.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Pour le grimpeur : Travailler le mental, oublier le vide et prendre le temps de trouver les prises sans paniquer. Travail aussi l&#x27;endurance car le temps sur le mur est démultiplié par la perte de la vue.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour l&#x27;assureur : Apprendre et améliorer la lecture de voie.&lt;&#x2F;p&gt;
+&lt;p&gt;Pour les deux : créer un lien, se créer son langage de cordé pour communiquer plus efficacement.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;facile : Le grimpeur monte en toutes couleurs&lt;&#x2F;li&gt;
+&lt;li&gt;difficile : L&#x27;assureur se limite dans ses indications. (membre à bouger, type de prises, position de la prise par rapport au grimpeur) OU voie plus dure&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Exercice amusant, tout le monde s&#x27;est pris au jeu. Les enfants communiquent énormément et cela crée une bonne dynamique de groupe. Les enfants ont pu se mettre à la place d&#x27;un pair non-voyant permettant ainsi une meilleure intégration au groupe.
+Attention tout de même aux forts caractères, qui ont tendance à plus se vociférer les indications qu&#x27;à échanger pacifiquement.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Abraracourcix (2)</title>
+        <published>2025-02-11T00:00:00+00:00</published>
+        <updated>2025-02-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Vanessa
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-2/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-2/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/abraracourcix-2/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;une sangle par grimpeur&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Le grimpeur fait passer une sangle dans son pontet et se ligote les mains à chaque extrémité de cette sangle. Il va ensuite grimper une voie de son choix. Les mains étant attachées au baudrier elles sont donc toujours proches du corps.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Voie de niveau moyen&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Exercice pour le grimpeur seulement, l&#x27;assureur est passif ici.&lt;&#x2F;p&gt;
+&lt;p&gt;Apprendre à lever les pieds pour trouver des mains.&lt;&#x2F;p&gt;
+&lt;p&gt;Travailler les adhérences.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;variantes&quot;&gt;Variantes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toutes couleurs pour les personnes en difficulté&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;Très bon exercice, surtout pour ceux qui ont tendance à être bloqué dans les voies en ne cherchant que des mains.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Horloge et tricolore</title>
+        <published>2020-01-01T00:00:00+00:00</published>
+        <updated>2020-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/horloge-et-tricolore/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/horloge-et-tricolore/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/horloge-et-tricolore/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Système de communication entre le guide et un personne mal-voyante. Le concept est le suivant :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;prendre un point au milieu des épaules du grimpeur&lt;&#x2F;li&gt;
+&lt;li&gt;imaginer une horloge centré sur ce point,
+&lt;ul&gt;
+&lt;li&gt;12 se trouve au dessus de la tête du grimpeur&lt;&#x2F;li&gt;
+&lt;li&gt;9 à sa gauche&lt;&#x2F;li&gt;
+&lt;li&gt;3 à sa droite&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;imaginer des zone colorés autour du grimpeur, centré sur ce même point.
+&lt;ul&gt;
+&lt;li&gt;vert signifie à proximité directe du grimpeur&lt;&#x2F;li&gt;
+&lt;li&gt;orange signifie que le grimpeur doit tendre le bras&#x2F;bouger légèrement pour attraper la prise&lt;&#x2F;li&gt;
+&lt;li&gt;rouge signifie que le grimpeur doit effectuer un mouvement (du corps, changer de pied) pour attraper la prise&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;On rajoute l&#x27;information du membre à bouger et on peut donc indiquer au grimpeur pour qu&#x27;il attrape une prise avec sa main gauche à sa gauche vers le haut relativement proche :&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Main gauche, 10, orange&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;On peut aussi rajouter le type de prise en information si nécessaire :&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Main gauche, 10, orange, inversée&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;réaliser les voies en utilisant le système de communication&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Construire un langage fluide entre le grimpeur et le guide.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;...&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;viclimbing.com&#x2F;info-guides&#x2F;&quot;&gt;VI Climbing&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lego</title>
+        <published>2020-01-01T00:00:00+00:00</published>
+        <updated>2020-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/lego/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/lego/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/lego/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;une boite de pêche avec des briques de Lego de différentes formes triées&lt;&#x2F;li&gt;
+&lt;li&gt;une plaque de Lego&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;Le guide choisit une voie et la reconstruit avec les Legos sur la plaque en essayant de coller le plus possible aux placements et aux formes des prises. Une fois fini, le grimpeur peut lire la voie avec ses mains, en touchant la plaque.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;avoir le plus de briques différentes possibles aide à représenter au mieux la voie&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;p&gt;Permettre au grimpeur mal-voyant de lire les voies&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;...&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;viclimbing.com&#x2F;info-guides&#x2F;&quot;&gt;VI Climbing&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Petit larousse</title>
+        <published>2020-01-01T00:00:00+00:00</published>
+        <updated>2020-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Guillaume
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://montblanc159.github.io/seance-guichen-escalade/sessions/petit-larousse/"/>
+        <id>https://montblanc159.github.io/seance-guichen-escalade/sessions/petit-larousse/</id>
+        
+        <content type="html" xml:base="https://montblanc159.github.io/seance-guichen-escalade/sessions/petit-larousse/">&lt;h2 id=&quot;pre-requis&quot;&gt;Pré-requis&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;materiel&quot;&gt;Matériel&lt;&#x2F;h2&gt;
+&lt;p&gt;Aucun&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;&#x2F;h2&gt;
+&lt;p&gt;À chaque fois que le grimpeur prend une prise, il doit indiquer à son assureur comment elle est nommée&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consignes&quot;&gt;Consignes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;réaliser une voie de niveau moyen&lt;&#x2F;li&gt;
+&lt;li&gt;l&#x27;assureur doit valider le nommage de la prise&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;objectifs&quot;&gt;Objectifs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;utiliser les mots techniques pour parler des prises : réglette, volume, bac, inversée, pince, plat, pied, poche, poignée&lt;&#x2F;li&gt;
+&lt;li&gt;fluidifier la lecture d&#x27;une voie en acquérant le vocabulaire&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;retour-sur-la-pratique&quot;&gt;Retour sur la pratique&lt;&#x2F;h2&gt;
+&lt;p&gt;...&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
