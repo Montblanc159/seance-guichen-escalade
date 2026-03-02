@@ -22,8 +22,14 @@ Aucun
 - l'assureur doit valider le nommage de la prise
 
 ## Objectifs
-- utiliser les mots techniques pour parler des prises : réglette, volume, bac, inversée, pince, plat, pied, poche, poignée
+- utiliser les mots techniques pour parler des prises : réglette, volume, bac, inversée, pince, plat, pied, poche/volcan, poignée, tajine, plat
 - fluidifier la lecture d'une voie en acquérant le vocabulaire
+
+## Variantes
+- nommer la position du pied ou de la main : pointe, contre-pointe, talon, couvrir une prise, bi/mono-doigt
+
+> "Je met la contre-pointe dans l'inversé"
+> "Je couvre la prise avec ma main gauche"
 
 ## Retour sur la pratique
 ...
