@@ -18,6 +18,8 @@ Aucun
 Tous les grimpeurs vont dans une même voie l'un après l'autre. Ceux qui ne grimpent pas observent le grimpeur et font le public. Le rôle du public est d'encourager le grimpeur.
 Le grimpeur est mis dans les conditions de compétition. S'il chute ou qu'il doit demander un sec, il redescend et passe son tour.
 
+Le prochain grimpeur peut déjà s'encorder à l'autre bout de corde pour gagner du temps.
+
 ## Consignes
 - Regrouper les grimpeurs autour d'une voie juste en dessous du niveau qualification de leurs compétitions respectives.
 - Faire attention à ce que le public soit positif avec le grimpeur. Pas de moqueries.
@@ -31,3 +33,4 @@ Se préparer mentalement à la compétition
 - Ajouter l'isolement et le temps pour la lecture de voie
 
 ## Retour sur la pratique
+Bon exercice, il faut cependant bien insister sur le rôle du public, sinon les encouragements sont timides. Certains grimpeurs ont eu besoin d'un joker ou deux.
