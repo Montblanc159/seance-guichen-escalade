@@ -29,7 +29,7 @@ Le prochain grimpeur peut déjà s'encorder à l'autre bout de corde pour gagner
 Se préparer mentalement à la compétition
 
 ## Variantes
-- Voie de niveau demi-final ou final
+- Voie de niveau final
 - Ajouter l'isolement et le temps pour la lecture de voie
 
 ## Retour sur la pratique

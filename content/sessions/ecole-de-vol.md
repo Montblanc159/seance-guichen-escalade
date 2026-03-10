@@ -15,10 +15,10 @@ Aucun
 Aucun
 
 ## Description
-Les grimpeurs escaladent jusqu'aux 2/3 du mur. Arrivé à ce point, l'encadrant fait un noeud à 2m des assureurs pour éviter tout retour au sol.
+Les grimpeurs escaladent jusqu'aux 2/3 du mur. Ils s'arrêtent avec une dégaine au niveau de leur bassin. Arrivé à ce point, l'encadrant fait un noeud à 2m des assureurs pour éviter tout retour au sol.
 Puis les grimpeurs font un première chute sans mou.
-- Pour ceux qui sont en moulinette, ils remontent à leur point de départ, l'assureur leur laisse 10cm de mou et ils refont une chute. Rebelote, avec 10cm de mou en plus, jusqu'à atteindre les 2m, distances max entre les deux dégaines en SAE.
-- Pour ceux qui sont en tête, l'assureur ne donnent pas de mou mais c'est le grimpeur qui monte 10cm par 10cm au dessus de la dégaine, en commençant en dessous de la dégaine jusqu'à la dégaine d'après, au niveau des épaules.
+- Pour ceux qui sont en moulinette, ils remontent à leur point de départ, l'assureur leur laisse 20cm de mou et ils refont une chute. Rebelote, avec 20cm de mou en plus, jusqu'à atteindre les 1.5/2m, c'est à dire que le grimpeur se retrouve sous la dégaine du dessous.
+- Pour ceux qui sont en tête, l'assureur ne donne pas de mou mais c'est le grimpeur qui monte 20cm par 20cm au dessus de la dégaine, en commençant en dessous de la dégaine jusqu'à la dégaine d'après, qui doit être entre les épaules et le bassin.
 
 ## Consignes
 - ne pas se laisser tomber comme un sac à patate, il faut rester actif lors de la chute
@@ -28,7 +28,7 @@ Puis les grimpeurs font un première chute sans mou.
 - pas de volumes/prises saillantes en dessous du grimpeur lors de la chute
 - ouvrir les yeux pour mieux anticiper la zone de réception
 - penser à quelque chose de positif lors de la chute (ex: les cadeaux de noël) pour éviter d'associer la chute à la peur
-- ne pas se forcer, si c'est trop dur psychologiquement on repars avec moins de mou/pas de mou
+- ne pas se forcer, si c'est trop dur psychologiquement on repart avec moins de mou/pas de mou
 
 
 ## Objectifs
@@ -39,4 +39,3 @@ La peur de la chute peut freiner la progression technique d'un grimpeur. Un mouv
 - en tête pour ceux qui sont familiers de la grimpe en tête
 
 ## Retour sur la pratique
-Exercice modifié, les encadrants
