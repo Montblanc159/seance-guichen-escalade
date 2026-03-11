@@ -12,4 +12,3 @@ Faire des groupes de 5 personnes maximum. Placer un tapis par groupe aux pieds d
 ## Consignes
 - Interdiction de sauter.
 - Interdiction d'aller plus haut que la première dégaine.
-- Si revanche, intervertir le placement des équipes ou changer les personnes de file pour éviter qu'une file grimpe sur la même voie.
