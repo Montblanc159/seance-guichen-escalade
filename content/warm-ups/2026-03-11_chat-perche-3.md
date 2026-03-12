@@ -1,6 +1,6 @@
 +++
-title = "Chat perché (2)"
-date = 2026-01-28
+title = "Chat perché (3)"
+date = 2026-03-11
 in_search_index = true
 draft = false
 authors = ["Cédric", "Vanessa"]
