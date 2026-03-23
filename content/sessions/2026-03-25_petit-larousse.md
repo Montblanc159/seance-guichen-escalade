@@ -2,7 +2,7 @@
 title = "Petit larousse"
 in_search_index = true
 draft = false
-date = 2020-01-01
+date = 2026-03-25
 authors = ["Guillaume"]
 [taxonomies]
 families=["Tactique"]

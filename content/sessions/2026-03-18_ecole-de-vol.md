@@ -21,7 +21,7 @@ Puis les grimpeurs font un première chute sans mou.
 - Pour ceux qui sont en tête, l'assureur ne donne pas de mou mais c'est le grimpeur qui monte 20cm par 20cm au dessus de la dégaine, en commençant en dessous de la dégaine jusqu'à la dégaine d'après, qui doit être entre les épaules et le bassin.
 
 ## Consignes
-- ne pas se laisser tomber comme un sac à patate, il faut rester actif lors de la chute
+- ne pas se laisser tomber comme un sac à patate, il faut rester actif lors de la chute, se pousser du mur
 - prévenir son assureur
 - plier les jambes pour pouvoir amortir la chute contre le mur
 - ne rien attraper avec les mains: la corde ça brûle, la dégaine ça blesse les doigts
@@ -39,3 +39,5 @@ La peur de la chute peut freiner la progression technique d'un grimpeur. Un mouv
 - en tête pour ceux qui sont familiers de la grimpe en tête
 
 ## Retour sur la pratique
+Exercice fondamental pour les grimpeurs, la chute est inhérente au sport. Bien insister sur le fait que les grimpeurs doivent s'éjecter du mur en tombant, car cela peut engendrer des petites blessures (tibia qui tape sur une prise, genou qui rape). Le fait de laisser le choix au grimpeur de la hauteur de sa chute et de pouvoir dire stop permet d'éviter les frustrations et les traumatismes qui pourraient bloquer la grimpe par la suite. Tout le monde est ressorti avec le sourire, même ceux qui s'inquiétaient avant l'exercice.
+Contre assurage obligatoire pour les débutants qui pourraient lâcher la corde lors de la réception de la chute. Nous avons divisé le groupe en deux exercices pour n'avoir que trois couples grimpeurs/assureurs à surveiller à la fois en faisant des rotations. Bien vérifié les montages, ça n'est pas le moment d'avoir une erreur de noeud ou au niveau du descendeur.

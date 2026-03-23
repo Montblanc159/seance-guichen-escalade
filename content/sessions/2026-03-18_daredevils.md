@@ -34,3 +34,4 @@ Le grimpeur choisit une voie, il la grimpe une première fois. Puis il se bande 
 - déficience visuelle : faire deux fois la même voie d'affilée tout court, l'exercice reste valable
 
 ## Retour sur la pratique
+Exercice amusant, les grimpeurs s'y prêtent volontiers. En terme de technique, ça n'est pas un point de bascule, mais l'exercice reste quand même utile, grimper de manière intuitive, c'est bien mais conscientiser le mouvement, c'est mieux pour réussir pas mal de voies.
