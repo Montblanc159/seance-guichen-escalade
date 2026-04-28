@@ -30,4 +30,4 @@ Atelier de création de bloc. Faire des groupes de 3 personnes maximum. Placer u
 - les grimpeurs s'inventent des handicaps (ex: pas le droit de matcher, pas le droit à la main droite)
 
 ## Retour sur la pratique
-...
+Bon exercice, les grimpeurs se prennent bien au jeu. Bien expliquer que le but n'est pas de créer un bloc trop simple. L'encadrant peut valider ou non un mouvement selon sa difficulté.
