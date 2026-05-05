@@ -1,6 +1,5 @@
 @charset "utf-8";
-@use 'sass:color';
-
+@use "sass:color";
 
 @import "normalize";
 
@@ -16,7 +15,11 @@
 @import "search";
 
 * {
-    color: $black;
+    color: $lightest-color;
+}
+
+h1 {
+    color: $light-color;
 }
 
 body {
@@ -31,21 +34,22 @@ header {
     align-items: center;
     width: 100vw;
     padding: 25px;
-    background: linear-gradient(45deg, $background, color.adjust($background, $lightness: 10%));
+    background: linear-gradient(45deg, $main-color, $darker-color);
 
     a {
         text-decoration: none;
+        background-color: transparent;
 
         h1 {
             margin: 0;
-            color: $foreground;
+            color: $lightest-color;
         }
     }
 }
 
 main {
     height: 100%;
-    background: color.adjust($background, $lightness: 65%);
+    background: $darkest-color;
     overflow: scroll;
 }
 
@@ -58,19 +62,20 @@ article {
 footer {
     width: 100vw;
     padding: 25px;
-    background: linear-gradient(45deg, $background, color.adjust($background, $lightness: 10%));
-    color: $foreground;
+    background: linear-gradient(45deg, $main-color, $darker-color);
+    color: $lightest-color;
 }
 
 a {
-    color: $link-color;
+    color: $secondary-color;
+    background-color: $lighter-color;
 
     &:hover {
-        color: color.adjust($link-color, $lightness: 25%);
+        color: color.adjust($secondary-color, $lightness: 25%);
     }
 
     &:active {
-        color: color.adjust($link-color, $lightness: -25%);
+        color: color.adjust($secondary-color, $lightness: -25%);
     }
 }
 
@@ -92,11 +97,10 @@ a {
         display: flex;
         justify-content: center;
         align-items: center;
+        background-color: $darkest-color;
+        position: relative;
 
         &:nth-of-type(1) {
-            background-color: color.adjust($background, $lightness: 55%);
-            position: relative;
-
             &:after {
                 content: "";
                 display: block;
@@ -112,9 +116,6 @@ a {
         }
 
         &:nth-of-type(2) {
-            background-color: color.adjust($background, $lightness: 50%);
-            position: relative;
-
             &:after {
                 content: "";
                 display: block;
@@ -133,8 +134,8 @@ a {
 
 .button {
     display: inline-block;
-    background-color: $background;
-    color: $foreground;
+    background-color: $secondary-color;
+    color: $lightest-color;
     padding: 0.5rem 0.7rem;
     text-decoration: none;
     border-radius: 5px;
@@ -143,13 +144,13 @@ a {
     z-index: 2;
 
     &:hover {
-        color: $foreground;
-        background: color.adjust($background, $lightness: 25%);
+        color: $lightest-color;
+        background: color.adjust($secondary-color, $lightness: 25%);
     }
 
     &:active {
-        color: $foreground;
-        background: color.adjust($background, $lightness: -25%);
+        color: $lightest-color;
+        background: color.adjust($secondary-color, $lightness: -25%);
     }
 }
 

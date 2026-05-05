@@ -1,20 +1,16 @@
-{% extends "base.html" %}
-
-{% block content %}
+{% extends "base.html" %} {% block content %}
 <article>
-    <a href="{{ get_url(path='@/sessions/_index.md') }}">
-        < Retour</a>
+    <a href="{{ get_url(path='@/sessions/_index.md') }}"> < Retour</a>
 
-            <h1>
-                Liste d'exercices
-            </h1>
+    <h1>Liste d'exercices</h1>
 
-            <h2>Famille : {{ term.name }}</h2>
+    <h2>Famille : {{ term.name }}</h2>
 
-            {% for page in term.pages %}
-            <ul class="articles">
-                <li class="articles__item"><a href="{{ page.permalink | safe }}">{{ page.title | safe }}</a></li>
-            </ul>
-            {% endfor %}
-            {% endblock content %}
+    {% for page in term.pages %}
+    <section class="articles">
+        <div class="articles__item">
+            <a href="{{ page.permalink | safe }}">{{ page.title | safe }}</a>
+        </div>
+    </section>
+    {% endfor %} {% endblock content %}
 </article>

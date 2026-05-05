@@ -1,17 +1,15 @@
-{% extends "base.html" %}
-
-{% block content %}
+{% extends "base.html" %} {% block content %}
 <article>
-    <p><a href="{{ config.base_url }}">
-            < Retour</a>
-    </p>
+    <p><a href="{{ config.base_url }}"> < Retour</a></p>
 
     <nav class="tags">
         <h2>Familles</h2>
         <section class="tags__items">
-            {% set families = get_taxonomy(kind="families") %}
-            {% for family in families.items %}
-            <a href="{{ family.permalink }}" class="tags__item">{{ family.name }}</a>
+            {% set families = get_taxonomy(kind="families") %} {% for family in
+            families.items %}
+            <a href="{{ family.permalink }}" class="tags__item"
+                >{{ family.name }}</a
+            >
             {% endfor %}
         </section>
     </nav>
@@ -19,21 +17,25 @@
     <nav class="tags">
         <h2>Public spécifique</h2>
         <section class="tags__items">
-            {% set impairments = get_taxonomy(kind="impairments") %}
-            {% for impairment in impairments.items %}
-            <a href="{{ impairment.permalink }}" class="tags__item">{{ impairment.name }}</a>
+            {% set impairments = get_taxonomy(kind="impairments") %} {% for
+            impairment in impairments.items %}
+            <a href="{{ impairment.permalink }}" class="tags__item"
+                >{{ impairment.name }}</a
+            >
             {% endfor %}
         </section>
     </nav>
 
-    <h1>
-        {{ section.title }}
-    </h1>
+    <h1>{{ section.title }}</h1>
 
-    <ul class="articles">
+    <section class="articles">
         {% for page in section.pages %}
-        <li class="articles__item"><a href="{{ page.permalink | safe }}">{{ page.date }} - {{ page.title }}</a></li>
+        <div class="articles__item">
+            <a href="{{ page.permalink | safe }}"
+                >{{ page.date }} - {{ page.title }}</a
+            >
+        </div>
         {% endfor %}
-    </ul>
+    </section>
 </article>
 {% endblock content %}
