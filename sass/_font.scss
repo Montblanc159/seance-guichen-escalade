@@ -1,7 +1,6 @@
 $default-font: "Nunito", sans-serif;
 $default-font-size: 1rem;
 
-
 * {
     font-family: $default-font;
     font-optical-sizing: auto;
@@ -28,11 +27,13 @@ p,
 a,
 li,
 blockquote,
-b {
+b,
+strong {
     font-size: calc($default-font-size * 1.2);
 }
 
-b {
+b,
+strong {
     font-weight: 900;
 }
 
