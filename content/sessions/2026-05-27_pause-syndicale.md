@@ -2,7 +2,7 @@
 title = "Pause syndicale"
 in_search_index = true
 draft = false
-date = 2026-05-20
+date = 2026-05-27
 authors = ["Guillaume"]
 [taxonomies]
 families=["Tactique", "Technique"]
