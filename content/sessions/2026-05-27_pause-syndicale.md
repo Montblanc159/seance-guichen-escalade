@@ -35,3 +35,4 @@ Lorsque le décompte est terminé, le grimpeur repart et termine sa voie. S'il s
 - 1 minute pour les confirmés, devient un exercice d'endurance
 
 ## Retour sur la pratique
+Bon exercice, bien expliquer que l'exercice a pour but d'apprendre à se reposer pas à fatiguer artificiellement le grimpeur.
