@@ -29,12 +29,22 @@
     <h1>{{ section.title }}</h1>
 
     <section class="articles">
+
         {% for page in section.pages %}
         <div class="articles__item">
             <a href="{{ page.permalink | safe }}"
                 >{{ page.date }} - {{ page.title }}</a
             >
         </div>
+        {% endfor %}
+
+        {% for section_name in section.subsections %}
+            {% set section = get_section(path=section_name) %}
+            <div class="articles__item">
+                <a href="{{ section.permalink | safe }}"
+                    >{{ section.title }}</a
+                >
+            </div>
         {% endfor %}
     </section>
 </article>

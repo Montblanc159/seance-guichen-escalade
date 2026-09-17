@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Le morpion"
 in_search_index = true
 draft = true
 date = 2026-06-03
