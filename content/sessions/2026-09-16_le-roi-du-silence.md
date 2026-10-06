@@ -2,7 +2,7 @@
 title = "Le roi du silence"
 in_search_index = true
 draft = false
-date = 2020-01-01
+date = 2026-09-16
 authors = ["Guillaume"]
 [taxonomies]
 families=["Tactique", "Technique"]
