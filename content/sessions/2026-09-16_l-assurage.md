@@ -37,9 +37,9 @@ On en profite pour demander à ce que chaque cordée se vérifie mutuellement le
 
 On recommence le montage au moins une fois pour pouvoir mémoriser toutes les étapes.
 
-Une fois que tout le monde a réussi à s'encorder de manière sécurisée, les grimpeur•euse•s se mettent en place pour un simulation d'assurage. L'assureur•eus donne du mou et le grimpeur•euse recule de plusieurs mètres. L'encadrant•e se place devant les assureurs pour bien voir leur geste et pouvoir leur montrer le cinq temps.
+Une fois que tout le monde a réussi à s'encorder de manière sécurisée, les grimpeur•euse•s se mettent en place pour un simulation d'assurage. L'assureur•euse donne du mou et la•le grimpeur•euse recule de plusieurs mètres. L'encadrant•e se place devant les assureur•euse•s pour bien voir leurs gestes et pouvoir leur montrer le cinq temps.
 
-L'encadrant demande aux grimpeur•euse•s d'avancer d'un pas, et les assureur•euse•s doivent faire les cinq temps pour ravaler le mou. Bien expliquer que le "mou" c'est un manque de tension dans la corde. Le placement de départ :
+L'encadrant•e demande aux grimpeur•euse•s d'avancer d'un pas, et les assureur•euse•s doivent faire les cinq temps pour ravaler le mou. Bien expliquer que le "mou" c'est un manque de tension dans la corde. Le placement de départ :
 - la main conductrice tient la corde sous le descendeur et se place au niveau de la hanche du même côté
 - l'autre main est posé sur la corde au dessus du descendeur (sur la corde qui va vers le grimpeur)
 - on se place de côté, le pied conducteur devant soi pour contrer la force d'une potentielle chute
