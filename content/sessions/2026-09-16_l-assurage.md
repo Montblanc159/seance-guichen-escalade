@@ -1,7 +1,7 @@
 +++
 title = "L'assurage"
 in_search_index = true
-draft = true
+draft = false
 date = 2026-09-16
 authors = ["Guillaume"]
 [taxonomies]
