@@ -2,7 +2,7 @@
 title = "Plan d'austérité"
 in_search_index = true
 draft = false
-date = 2026-09-23
+date = 2026-10-07
 authors = ["Paloma"]
 [taxonomies]
 families=["Tactique", "Technique"]
